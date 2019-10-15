@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rophohleeg.naradi-metabo.com/sitemap.xml
